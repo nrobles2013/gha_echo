@@ -1,0 +1,11 @@
+"name": "gha_echo",
+"version":"1.0.0",
+"main":"index.js",
+"scripts":{
+    "build":"mkdir -p build && echo 'Hello, World!' > build/hello.txt",
+    "start":"node index.js"
+},
+"keywords":[],
+"author":"",
+"License":"ISC",
+"descripction":""
